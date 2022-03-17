@@ -1,0 +1,33 @@
+Need some help? 
+
+Here you can find the description of every item of the interface. Search the page you want to 
+learn about and read.
+
+	-HOME: here you can see the main cover of the application. This application has been 
+developed in Python by a student of the ETSII UPM, as the bottom icons show.
+
+	-SOLVER: type a first order Ordinary Differential Equation and solve it quickly 
+with this compact ODE Calculator. It uses the Lie Group Symmetries to search for the 
+infinitesimal functions of the ODE, and then solves it easily for the user.
+
+	-STEP-BY-STEP: this is an advanced mode of the previous ODE Solver. Here you will be 
+able to obtain the infinitesimal group for your equations, give your own infinitesimals and
+finally solve them diving into details using the Lie groups hint.
+
+	-BENCHMARK: This section shows the results of the project. Here you can test and launch
+a set of equations known as KAMKE Set. We have selected the first 88 for you to test them with
+a wide variety of hints. This section will also show measured times, and give you detailed
+results of any test you perform.
+
+	-HELP: Well, it seems like you know how this part works if you are reading this test. 
+Anyway, this section contains a brief description of all sections and its functionality, as
+you can read all above.
+
+Thanks for using DELHI App,
+
+Developers Team
+
+
+
+
+

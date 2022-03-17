@@ -1,0 +1,1 @@
+Number	default	abaco1_simple	abaco1_product	abaco2_similar	abaco2_unique_unknown	abaco2_unique_general	linear	function_sum	bivariate	chi
